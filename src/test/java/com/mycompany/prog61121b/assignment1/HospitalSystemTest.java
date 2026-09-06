@@ -5,6 +5,26 @@ package com.mycompany.prog61121b.assignment1;
  * Click nbfs://nbhost/SystemFileSystem/Templates/UnitTests/JUnit5TestClass.java to edit this template
  */
 
+/*
+ * PROG61121B - Assignment 1
+ * MediCare Hospital Patient Admission System
+ *
+ * Author:         Mikyle Naraidu
+ * Student number: ST10447186
+ * Date:           September 2026
+ *
+ * References:
+ * JUnit Team, 2024. JUnit 5 User Guide. [Online]
+ *     Available at: https://junit.org/junit5/docs/current/user-guide/
+ *     [Accessed 6 September 2026].
+ * JUnit Team, 2024. Class Assertions. JUnit 5 API Documentation. [Online]
+ *     Available at: https://junit.org/junit5/docs/current/api/org.junit.jupiter.api/org/junit/jupiter/api/Assertions.html
+ *     [Accessed 6 September 2026].
+ *
+ * The Independent Institute of Education, 2026. PROG61121B Module Manual.
+ *     Johannesburg: The Independent Institute of Education.
+ */
+
 import com.mycompany.prog61121b.assignment1.Ward;
 import com.mycompany.prog61121b.assignment1.PatientNotFoundException;
 import com.mycompany.prog61121b.assignment1.PatientCategory;

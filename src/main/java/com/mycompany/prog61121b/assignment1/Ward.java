@@ -18,15 +18,15 @@ import com.mycompany.prog61121b.assignment1.BedUnavailableException;
  * Date:          08 September 2026
  *
  * References:
- * Oracle, 2024. Inheritance. The Java Tutorials. [Online]
- *     Available at: https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html
- *     [Accessed 6 September 2026].
- * Oracle, 2024. Using the Keyword super. The Java Tutorials. [Online]
- *     Available at: https://docs.oracle.com/javase/tutorial/java/IandI/super.html
- *     [Accessed 6 September 2026].
- * Oracle, 2024. Overriding and Hiding Methods. The Java Tutorials. [Online]
- *     Available at: https://docs.oracle.com/javase/tutorial/java/IandI/override.html
- *     [Accessed 6 September 2026].
+ * Oracle, 2024. Arrays. The Java Tutorials. [Online]
+ *     Available at: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html
+ *     [Accessed 06 September 2026].
+ * Oracle, 2024. The for Statement. The Java Tutorials. [Online]
+ *     Available at: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/for.html
+ *     [Accessed 06 September 2026].
+ * Oracle, 2024. Class StringBuilder. Java Platform SE API Specification. [Online]
+ *     Available at: https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/StringBuilder.html
+ *     [Accessed 06 September 2026].
  *
  * The Independent Institute of Education, 2026. PROG61121B Module Manual.
  *     Johannesburg: The Independent Institute of Education.
